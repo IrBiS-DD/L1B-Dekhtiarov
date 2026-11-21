@@ -1,1 +1,1 @@
-# L1B-Dekhtiarov
+# L1B(РСЗ)-Dekhtiarov
