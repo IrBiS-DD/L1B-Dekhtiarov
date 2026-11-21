@@ -1,1 +1,1 @@
-1/1, 1/2 Finish
+- [gzgamestore](gzgamestore) — магазин ігор: заняття 1.1 і 1.2
