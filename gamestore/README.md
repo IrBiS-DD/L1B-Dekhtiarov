@@ -1,1 +1,1 @@
-- [gzgamestore](gzgamestore) — магазин ігор: заняття 1.1 і 1.2
+- [gzgamestore](gzgamestore) — магазин ігор: виконані заняття 1.1 і 1.2 
